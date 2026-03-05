@@ -1,2 +1,5 @@
-# marketing-campaign-performance-analysis
-Analyze marketing campaign performance using Python and data analytics to evaluate conversion rates, ROI, and customer engagement metrics.
+# Marketing Campaign Performance Analysis
+
+Analyze campaign performance, conversion rate, and ROI.
+
+Tools: Python, Pandas
